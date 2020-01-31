@@ -1,10 +1,7 @@
 inter\runnerClasses\CucumberTests.class
 inter\utilities\Address.class
 inter\utilities\Geo.class
-inter\utilities\ArrayTest.class
+inter\utilities\UserInfo.class
 inter\utilities\Utils.class
-inter\utilities\Car.class
 inter\glueCode\StepDef.class
-inter\utilities\Example.class
-inter\utilities\Test1.class
 inter\utilities\Company.class

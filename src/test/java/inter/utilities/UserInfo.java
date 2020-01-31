@@ -3,7 +3,7 @@ package inter.utilities;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Example {
+public class UserInfo {
 
     private Integer id;
     private String name;

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c273cbe-fa38-4583-8021-a32fe0564a57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WLOgagoJQxozXEUuyTASHbhpB3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\test\src\test\features" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\test\src\test" />
+      <recent name="C:\Users\User\test\src\test\java\inter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberTests">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inter.utilities.ArrayTest" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inter.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Test_Scenarios" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/Test_Scenarios.feature" />
+      <option name="GLUE" value="inter.glueCode" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Test_Scenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inter.runnerClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="inter.runnerClasses" />
+      <option name="MAIN_CLASS_NAME" value="inter.runnerClasses.CucumberTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukeRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inter.runnerClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="inter.runnerClasses" />
+      <option name="MAIN_CLASS_NAME" value="inter.runnerClasses.CukeRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberTests" />
+        <item itemvalue="JUnit.CukeRunner" />
+        <item itemvalue="Cucumber java.Feature: Test_Scenarios" />
+        <item itemvalue="JUnit.All in test" />
+        <item itemvalue="Application.ArrayTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c273cbe-fa38-4583-8021-a32fe0564a57" name="Default Changelist" comment="" />
+      <created>1578925520685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578925520685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="97" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1580470783990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="97" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1580470783990" />
+    <state x="446" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1579628336623">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1579628336623" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1580489068792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580489068792" />
+    <state x="523" y="235" width="258" height="210" key="Github.ShareDialog" timestamp="1580489288089">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="523" y="235" width="258" height="210" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1580489288089" />
+    <state width="1237" height="225" key="GridCell.Tab.0.bottom" timestamp="1580487764022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580487764022" />
+    <state width="1237" height="225" key="GridCell.Tab.0.center" timestamp="1580487764021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580487764021" />
+    <state width="1237" height="225" key="GridCell.Tab.0.left" timestamp="1580487764021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580487764021" />
+    <state width="1237" height="225" key="GridCell.Tab.0.right" timestamp="1580487764021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="225" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580487764021" />
+    <state width="1237" height="93" key="GridCell.Tab.1.bottom" timestamp="1580482107026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580482107026" />
+    <state width="1237" height="93" key="GridCell.Tab.1.center" timestamp="1580482107026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580482107026" />
+    <state width="1237" height="93" key="GridCell.Tab.1.left" timestamp="1580482107026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580482107026" />
+    <state width="1237" height="93" key="GridCell.Tab.1.right" timestamp="1580482107026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="93" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580482107026" />
+    <state x="456" y="276" key="ReplaceDuplicatesPrompt" timestamp="1580486676350">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="276" key="ReplaceDuplicatesPrompt/0.0.1280.680@0.0.1280.680" timestamp="1580486676350" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1580489272171">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580489272171" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580219659454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580219659454" />
+    <state x="371" y="111" width="538" height="467" key="extract.method.dialog" timestamp="1580486665609">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="111" width="538" height="467" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1580486665609" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1580467822042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1580467822042" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="((RestAssuredResponseOptionsGroovyImpl)((RestAssuredResponseImpl)response).groovyResponse).statusCode" custom="io.restassured.internal.RestAssuredResponseImpl,io.restassured.internal.RestAssuredResponseOptionsGroovyImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

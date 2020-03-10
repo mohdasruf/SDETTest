@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.amazonaws:aws-java-sdk-fms:1.11.740">
+    <CLASSES>
+      <root url="jar://$M2_REPO$/com/amazonaws/aws-java-sdk-fms/1.11.740/aws-java-sdk-fms-1.11.740.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$M2_REPO$/com/amazonaws/aws-java-sdk-fms/1.11.740/aws-java-sdk-fms-1.11.740-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$M2_REPO$/com/amazonaws/aws-java-sdk-fms/1.11.740/aws-java-sdk-fms-1.11.740-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

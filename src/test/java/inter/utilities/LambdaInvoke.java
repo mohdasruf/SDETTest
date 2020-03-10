@@ -20,7 +20,7 @@ public class LambdaInvoke {
     InvokeRequest invokeRequest = new InvokeRequest()
       .withFunctionName("aws-java-simple-http-endpoint-dev-currentTime");
 
-    BasicAWSCredentials awsCreds = new BasicAWSCredentials("AKIAITF6EULYF2ZRECNQ", "BUXxKjgmfUBj+9i2HKZL9VABpQDmgI0PNIaQlmh9");
+    BasicAWSCredentials awsCreds = new BasicAWSCredentials("ddd", "ddd");
 
     AWSLambda awsLambda = AWSLambdaClientBuilder.standard()
       .withRegion(Regions.US_EAST_1)
